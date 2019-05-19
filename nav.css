@@ -8,7 +8,7 @@
   
   .topnav a {
     float: left;
-    color: #f0ffff;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -16,12 +16,12 @@
   }
   
   .topnav a:hover {
-    background-color: #fff0f5;
+    background-color: white;
     color: #edc0c0;
   }
   
   .topnav a.active {
     background-color: white;
     color:#edc0c0;
-      flex: 1;
+    
   }
