@@ -1,0 +1,9 @@
+.carousel-inner > .item > img,
+      .carousel-inner > .item > a > img {
+        width: auto;
+        height: 75%;
+        margin: auto;
+      }
+      .carousel-indicators {
+        color: blue;
+      }
