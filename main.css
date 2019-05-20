@@ -4,3 +4,9 @@ body {
     background: linear-gradient(to right, #edc0c0, #fff0f5);
     background-color: #f6ede5;
   }
+
+  h1{
+    text-decoration: black;
+    text-align: center;
+    font-size: 33px;
+  }
