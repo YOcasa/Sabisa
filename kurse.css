@@ -1,0 +1,9 @@
+.left{
+    width: 50%;
+    float: left;
+}
+
+.right{
+    text-align: center;
+    padding-top: 50px;
+}
