@@ -34,7 +34,7 @@
       border: none;
     }
   
-  .dropdown {
+  .dropdown button.kurse {
     float: left;
     color: white;
     text-align: center;
@@ -43,7 +43,7 @@
     font-size: 17px;
   }
   
-  .dropdown:hover {
+  .dropdown button.kurse :hover {
     background-color: white;
     color: #edc0c0;
   }
