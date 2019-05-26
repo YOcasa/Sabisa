@@ -41,11 +41,6 @@ a, p {
 			float: left;
 			margin-right: 3px;
         }
-			a {
-				display: block;
-				height: 28px;
-				width: 29px;
-			}
 
 			a:hover {
 				opacity: .8;
